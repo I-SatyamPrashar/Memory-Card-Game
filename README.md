@@ -69,9 +69,6 @@ You can customize this game by:
     - Adding difficulty levels (by changing the number of cards).
     - Storing high scores.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (if a LICENSE file exists in the repository).
 
 ## Contact
 
